@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanayweb
 - 👀 I’m interested in PHP 
 - 🌱 I’m currently learning web3 techs 
-- 💞️ I’m looking to collaborate on laravel , codeigniter , vue.js & react.js projects
+- 💞️ I’m looking to collaborate on Laravel , Codeigniter , Vue.js & React.js projects
 - 📫 How to reach me ? , just mail me at : freelancertanay22@gmail.com
 
 <!---
