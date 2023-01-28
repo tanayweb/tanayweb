@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanay
+- 👋 Hi, I’m @tanayweb
 - 👀 I’m interested in PHP 
 - 🌱 I’m currently learning web3 techs 
 - 💞️ I’m looking to collaborate on php ( laravel , codeigniter ) , vue.js & react.js projects
